@@ -140,7 +140,8 @@ padding: 0 1vw;
         margin: 10vh 0 0 0;
         font-size: 1vw;
     }
-    #footer:hover{
-        margin-top: 10vh;
-        color: #374980;
+    
+    #footertext:hover{
+        font-weight: bold;
+        color: #1f3048;
     }
