@@ -22,16 +22,18 @@ html body{
     opacity: .6;
 } */
 
-
+#heading{
+    /* margin-top: -1.45vw; */
+    font-size: 2.5vw;
+}
 #cu{
     font-weight: 400;
-    ont-size: 2.5vw;
     color: #7ca2c2;
 }
 #head{
     /* margin-top: -.9vw; */
     font-weight: 500;
-    ont-size: 2.5vw;
+    
     color: #475da9;
 }
 sup{
@@ -129,7 +131,7 @@ a{
 border: .14vw solid  #475da936;
     }
 
-   #links{
+    #links{
 display: flex;
 flex-direction: row;
 padding: 1vw 10vw;
