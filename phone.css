@@ -77,10 +77,10 @@ sup {
 }
 .btn {
     position: relative;
-  margin-left: 9px;
+  margin-left: 7.5px;
   margin-top: 5px;
-  width: 84px;
-  height: 25px;
+  width: 80px;
+  height: 20px;
   background: #a1c9e967;
   /* padding-bottom: 7px; */
   border: 2px solid rgb(255, 255, 255);
