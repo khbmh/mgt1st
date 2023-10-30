@@ -83,7 +83,7 @@ sup {
   height: 20px;
   background: #a1c9e967;
   /* padding-bottom: 7px; */
-  border: 2px solid rgb(255, 255, 255);
+  border: 0.2px solid #a1c9e967;
   border-radius: 9px;
   cursor: pointer;
 }
